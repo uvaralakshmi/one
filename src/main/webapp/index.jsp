@@ -2,7 +2,6 @@
 <body>
 	<h1 style="color: violet; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
 	<h1 align="center">HEY THIS IS MY SECOND VERSION OF APPLICATION</h1>
-	<p>We are deploying code in tomcat.</p>
 		
 </body>
 </html>
